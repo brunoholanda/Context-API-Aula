@@ -1,0 +1,1 @@
+https://pt-br.reactjs.org/docs/hooks-reference.html#usememo
